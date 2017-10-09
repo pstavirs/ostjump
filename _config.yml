@@ -12,3 +12,14 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-redirect-from 
+
+owner:
+  google:
+    analytics: UA-10207003-4
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: page
