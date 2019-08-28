@@ -1,3 +1,3 @@
 ---
-redirect_to: https://ostinato.org/contribute#donations
+redirect_to: https://gumroad.com/l/ostdonate
 ---
