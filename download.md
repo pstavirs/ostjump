@@ -1,3 +1,3 @@
 ---
-redirect_to: http://ostinato.org/downloads
+redirect_to: https://ostinato.org/pricing
 ---

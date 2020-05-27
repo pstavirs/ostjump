@@ -1,3 +1,3 @@
 ---
-redirect_to: http://ostinato.org/docs/faq#q-port-group-has-no-interfaces
+redirect_to: https://ostinato.org/docs/faq#q-port-group-has-no-interfaces
 ---
