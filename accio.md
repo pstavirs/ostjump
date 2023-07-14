@@ -1,3 +1,3 @@
 ---
-redirect_to: https://ostinato.org/download
+redirect_to: https://download.ostinato.org
 ---
