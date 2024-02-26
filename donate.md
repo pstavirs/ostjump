@@ -1,3 +1,3 @@
 ---
-redirect_to: https://gumroad.com/l/ostdonate
+redirect_to: https://github.com/sponsors/pstavirs
 ---
