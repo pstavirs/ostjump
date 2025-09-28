@@ -1,3 +1,3 @@
 ---
-redirect_to: https://ostinato.org/pricing/
+redirect_to: https://ostinato.org/pricing/#compare
 ---
