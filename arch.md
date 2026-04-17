@@ -1,3 +1,3 @@
 ---
-redirect_to: https://userguide.ostinato.org/Architecture.html
+redirect_to: https://userguide.ostinato.org/architecture/
 ---

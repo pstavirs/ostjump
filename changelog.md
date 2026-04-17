@@ -1,3 +1,3 @@
 ---
-redirect_to: https://devguide.ostinato.org/ChangeLog.html
+redirect_to: https://userguide.ostinato.org/changelog/
 ---
